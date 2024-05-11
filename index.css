@@ -1,0 +1,8 @@
+body {
+	max-height: 100vh !important;
+	overflow: hidden;
+}
+
+.tab-pane {
+	max-height: 75vh;
+}
